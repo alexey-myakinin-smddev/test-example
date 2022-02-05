@@ -1,0 +1,17 @@
+{
+  "name": "test-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/src/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "mocha": "^9.2.0",
+    "node-fetch": "^2.6.7"
+  }
+}
