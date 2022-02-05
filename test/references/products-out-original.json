@@ -1,0 +1,53 @@
+{
+  "cost": 4.87,
+  "costCurrency": "USD",
+  "countryOfOrigin": "China",
+  "createdAt": "2022-02-02T20:29:30.777Z",
+  "description": "This is a simple item",
+  "dimensionsUnit": "in",
+  "extProductId": "Pipe17TestSKU-Simple",
+  "harmonizedCode": "Pipe17TestSKU-Simple",
+  "height": 5.6735,
+  "imageURLs": [
+    "/uploads/generic3pl.png"
+  ],
+  "integration": "37732a550df403fb",
+  "length": 5.1218,
+  "name": "Pipe17TestSKU-Simple",
+  "orgKey": "5d8047db3fda9244",
+  "partId": "Pipe17TestSKU-Simple",
+  "prices": [
+    {
+      "name": "basePrice",
+      "value": 13.97,
+      "currency": "USD"
+    },
+    {
+      "name": "wholesale",
+      "value": 7.51,
+      "currency": "USD"
+    }
+  ],
+  "productId": "2a49aa94ae937cf2",
+  "published": [
+    {
+      "integrationId": "37732a550df403fb",
+      "extProductId": "Pipe17TestSKU-Simple"
+    }
+  ],
+  "sku": "Pipe17TestSKU-Simple",
+  "status": "active",
+  "tags": [
+    "simple"
+  ],
+  "taxable": true,
+  "types": [
+    "simple"
+  ],
+  "upc": "Pipe17TestSKU-Simple",
+  "updatedAt": "2022-02-02T20:29:30.777Z",
+  "vendor": "Pipe17",
+  "weight": 4.1216,
+  "weightUnit": "lb",
+  "width": 5.1523
+}
